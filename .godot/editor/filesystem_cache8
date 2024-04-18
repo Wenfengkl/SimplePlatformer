@@ -1,4 +1,179 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713382741
+::res://::1713476836
 icon.svg::CompressedTexture2D::4332617626860069270::1713382653::1713382741::1::::<><>::
 README.md::TextFile::-1::1713382410::0::1::::<><>::
+::res://assets/::1713383070
+::res://assets/Captain Clown Nose/::1713383064
+::res://assets/Captain Clown Nose/Aseprite/::1713383064
+::res://assets/Captain Clown Nose/Sprites/::1713383064
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/::1713383064
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/::1713383064
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/::1713383070
+Idle Sword 01.png::CompressedTexture2D::6643377582279367758::1713383064::1713383070::1::::<><>::
+Idle Sword 02.png::CompressedTexture2D::8326560894709299523::1713383064::1713383070::1::::<><>::
+Idle Sword 03.png::CompressedTexture2D::6024068593751668152::1713383064::1713383070::1::::<><>::
+Idle Sword 04.png::CompressedTexture2D::5951692611999772174::1713383064::1713383070::1::::<><>::
+Idle Sword 05.png::CompressedTexture2D::3328886160362463509::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/::1713383070
+Run Sword 01.png::CompressedTexture2D::8808466630559259144::1713383064::1713383070::1::::<><>::
+Run Sword 02.png::CompressedTexture2D::8816136917345265435::1713383064::1713383070::1::::<><>::
+Run Sword 03.png::CompressedTexture2D::3724435326937203969::1713383064::1713383070::1::::<><>::
+Run Sword 04.png::CompressedTexture2D::7247736793393459070::1713383064::1713383070::1::::<><>::
+Run Sword 05.png::CompressedTexture2D::7470117007508818314::1713383064::1713383070::1::::<><>::
+Run Sword 06.png::CompressedTexture2D::7479881541702270872::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/::1713383070
+Jump Sword 01.png::CompressedTexture2D::6163105554135102172::1713383064::1713383070::1::::<><>::
+Jump Sword 02.png::CompressedTexture2D::3784135279303782955::1713383064::1713383070::1::::<><>::
+Jump Sword 03.png::CompressedTexture2D::8024765202720871484::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/12-Fall Sword/::1713383070
+Fall Sword 01.png::CompressedTexture2D::1009790020400451269::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/13-Ground Sword/::1713383070
+Ground Sword 01.png::CompressedTexture2D::6399684586600458309::1713383064::1713383070::1::::<><>::
+Ground Sword 02.png::CompressedTexture2D::50673128956782949::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword/::1713383070
+Hit Sword 01.png::CompressedTexture2D::6233217890122864370::1713383064::1713383070::1::::<><>::
+Hit Sword 02.png::CompressedTexture2D::2045883365456630628::1713383064::1713383070::1::::<><>::
+Hit Sword 03.png::CompressedTexture2D::728072591695508329::1713383064::1713383070::1::::<><>::
+Hit Sword 04.png::CompressedTexture2D::2221213441732608438::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/15-Attack 1/::1713383070
+Attack 1 01.png::CompressedTexture2D::1062851614293546712::1713383064::1713383070::1::::<><>::
+Attack 1 02.png::CompressedTexture2D::3425519842621072616::1713383064::1713383070::1::::<><>::
+Attack 1 03.png::CompressedTexture2D::3156679762439613970::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2/::1713383070
+Attack 2 01.png::CompressedTexture2D::2899465556014208271::1713383064::1713383070::1::::<><>::
+Attack 2 02.png::CompressedTexture2D::2703198605333980446::1713383064::1713383070::1::::<><>::
+Attack 2 03.png::CompressedTexture2D::7581863299486314704::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/17-Attack 3/::1713383070
+Attack 3 01.png::CompressedTexture2D::5269906967165920357::1713383064::1713383070::1::::<><>::
+Attack 3 02.png::CompressedTexture2D::3645185473284229937::1713383064::1713383070::1::::<><>::
+Attack 3 03.png::CompressedTexture2D::6072799118706829686::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/18-Air Attack 1/::1713383070
+Air Attack 1 01.png::CompressedTexture2D::2024213449428229740::1713383064::1713383070::1::::<><>::
+Air Attack 1 02.png::CompressedTexture2D::3252915737456900877::1713383064::1713383070::1::::<><>::
+Air Attack 1 03.png::CompressedTexture2D::1515964350724432639::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/19-Air Attack 2/::1713383070
+Air Attack 2 01.png::CompressedTexture2D::8234742755286081509::1713383064::1713383070::1::::<><>::
+Air Attack 2 02.png::CompressedTexture2D::1645116029103263024::1713383064::1713383070::1::::<><>::
+Air Attack 2 03.png::CompressedTexture2D::4686121236004286351::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/20-Throw Sword/::1713383070
+Throw Sword 01.png::CompressedTexture2D::2048178384863828510::1713383064::1713383070::1::::<><>::
+Throw Sword 02.png::CompressedTexture2D::8151370720323291096::1713383064::1713383070::1::::<><>::
+Throw Sword 03.png::CompressedTexture2D::4279112514466252262::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/::1713383064
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/::1713383070
+Idle 01.png::CompressedTexture2D::4942777381481920783::1713383064::1713383070::1::::<><>::
+Idle 02.png::CompressedTexture2D::6195897111541163374::1713383064::1713383070::1::::<><>::
+Idle 03.png::CompressedTexture2D::5472700030200276728::1713383064::1713383070::1::::<><>::
+Idle 04.png::CompressedTexture2D::7178115695052428913::1713383064::1713383070::1::::<><>::
+Idle 05.png::CompressedTexture2D::5267280295513110124::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/::1713383070
+Run 01.png::CompressedTexture2D::7884936663175685336::1713383064::1713383070::1::::<><>::
+Run 02.png::CompressedTexture2D::8847161797326782725::1713383064::1713383070::1::::<><>::
+Run 03.png::CompressedTexture2D::1701368485637806263::1713383064::1713383070::1::::<><>::
+Run 04.png::CompressedTexture2D::2026762962089939425::1713383064::1713383070::1::::<><>::
+Run 05.png::CompressedTexture2D::4446451695949977628::1713383064::1713383070::1::::<><>::
+Run 06.png::CompressedTexture2D::7529698464266124593::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/::1713383070
+Jump 01.png::CompressedTexture2D::8564335865978269541::1713383064::1713383070::1::::<><>::
+Jump 02.png::CompressedTexture2D::7393075635160278088::1713383064::1713383070::1::::<><>::
+Jump 03.png::CompressedTexture2D::7615099175508244059::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/::1713383070
+Fall 01.png::CompressedTexture2D::3662100830389667926::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/05-Ground/::1713383070
+Ground 01.png::CompressedTexture2D::1792468286642928491::1713383064::1713383070::1::::<><>::
+Ground 02.png::CompressedTexture2D::8971743876026270171::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/06-Hit/::1713383070
+Hit 01.png::CompressedTexture2D::3617025638906545597::1713383064::1713383070::1::::<><>::
+Hit 02.png::CompressedTexture2D::4317242341837027784::1713383064::1713383070::1::::<><>::
+Hit 03.png::CompressedTexture2D::7484966776761487285::1713383064::1713383070::1::::<><>::
+Hit 04.png::CompressedTexture2D::1616619746136161168::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/07-Dead Hit/::1713383070
+Dead Hit 01.png::CompressedTexture2D::2233756016890670145::1713383064::1713383070::1::::<><>::
+Dead Hit 02.png::CompressedTexture2D::7506891216175733093::1713383064::1713383070::1::::<><>::
+Dead Hit 03.png::CompressedTexture2D::3469205166917416822::1713383064::1713383070::1::::<><>::
+Dead Hit 04.png::CompressedTexture2D::2509683347974549875::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/08-Dead Ground/::1713383070
+Dead Ground 01.png::CompressedTexture2D::7909643265863367967::1713383064::1713383070::1::::<><>::
+Dead Ground 02.png::CompressedTexture2D::6486791687085388021::1713383064::1713383070::1::::<><>::
+Dead Ground 03.png::CompressedTexture2D::6438117206025494375::1713383064::1713383070::1::::<><>::
+Dead Ground 04.png::CompressedTexture2D::7669676549201510355::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/::1713383064
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/21-Sword Idle/::1713383070
+Sword Idle 01.png::CompressedTexture2D::8855856088088326940::1713383064::1713383070::1::::<><>::
+Sword Idle 02.png::CompressedTexture2D::4282617175638021924::1713383064::1713383070::1::::<><>::
+Sword Idle 03.png::CompressedTexture2D::668343982415164954::1713383064::1713383070::1::::<><>::
+Sword Idle 04.png::CompressedTexture2D::2674475151186072676::1713383064::1713383070::1::::<><>::
+Sword Idle 05.png::CompressedTexture2D::6396668679285019561::1713383064::1713383070::1::::<><>::
+Sword Idle 06.png::CompressedTexture2D::3218291611195272982::1713383064::1713383070::1::::<><>::
+Sword Idle 07.png::CompressedTexture2D::6389410753503606377::1713383064::1713383070::1::::<><>::
+Sword Idle 08.png::CompressedTexture2D::1066615108169786683::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/22-Sword Spinning/::1713383070
+Sword Spinning 01.png::CompressedTexture2D::6494793179394026161::1713383064::1713383070::1::::<><>::
+Sword Spinning 02.png::CompressedTexture2D::194860463749910002::1713383064::1713383070::1::::<><>::
+Sword Spinning 03.png::CompressedTexture2D::7195993583850966564::1713383064::1713383070::1::::<><>::
+Sword Spinning 04.png::CompressedTexture2D::8650462771482935862::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword/23-Sword Embedded/::1713383070
+Sword Embedded 01.png::CompressedTexture2D::5638439335226586916::1713383064::1713383070::1::::<><>::
+Sword Embedded 02.png::CompressedTexture2D::7775988495261493526::1713383064::1713383070::1::::<><>::
+Sword Embedded 03.png::CompressedTexture2D::5244001510861547850::1713383064::1713383070::1::::<><>::
+Sword Embedded 04.png::CompressedTexture2D::6508633213150667880::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/::1713383064
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/24-Attack 1/::1713383070
+Attack 1 01.png::CompressedTexture2D::4458620623568391575::1713383064::1713383070::1::::<><>::
+Attack 1 02.png::CompressedTexture2D::5087258736197313015::1713383064::1713383070::1::::<><>::
+Attack 1 03.png::CompressedTexture2D::5836840600211858097::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/25-Attack 2/::1713383070
+Attack 2 01.png::CompressedTexture2D::7426482331144541801::1713383064::1713383070::1::::<><>::
+Attack 2 02.png::CompressedTexture2D::6827064074796921011::1713383064::1713383070::1::::<><>::
+Attack 2 03.png::CompressedTexture2D::8855210595001868125::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/26-Attack 3/::1713383070
+Attack 3 01.png::CompressedTexture2D::5420343229115218576::1713383064::1713383070::1::::<><>::
+Attack 3 02.png::CompressedTexture2D::3163073090826008205::1713383064::1713383070::1::::<><>::
+Attack 3 03.png::CompressedTexture2D::8108161908670858815::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/27-Air Attack 1/::1713383070
+Air Attack 1 01.png::CompressedTexture2D::1725980702144117334::1713383064::1713383070::1::::<><>::
+Air Attack 1 02.png::CompressedTexture2D::3373606239056030738::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Sword Effects/28-Air Attack 2/::1713383070
+Air Attack 2 01.png::CompressedTexture2D::2325638120271116193::1713383064::1713383070::1::::<><>::
+Air Attack 2 02.png::CompressedTexture2D::2341954084850952992::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Dialogue/::1713383064
+::res://assets/Captain Clown Nose/Sprites/Dialogue/Dead/::1713383070
+Dead In 01.png::CompressedTexture2D::5752953217396678285::1713383064::1713383070::1::::<><>::
+Dead In 02.png::CompressedTexture2D::5613354387484612043::1713383064::1713383070::1::::<><>::
+Dead In 03.png::CompressedTexture2D::3385424462769770951::1713383064::1713383070::1::::<><>::
+Dead Out 01.png::CompressedTexture2D::6112900820349946421::1713383064::1713383070::1::::<><>::
+Dead Out 02.png::CompressedTexture2D::3757425115787749087::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Dialogue/Exclamation/::1713383070
+Exclamation In 01.png::CompressedTexture2D::1781468527920984210::1713383064::1713383070::1::::<><>::
+Exclamation In 02.png::CompressedTexture2D::8809415422041324793::1713383064::1713383070::1::::<><>::
+Exclamation In 03.png::CompressedTexture2D::4341094694969633043::1713383064::1713383070::1::::<><>::
+Exclamation Out 01.png::CompressedTexture2D::240244075854843044::1713383064::1713383070::1::::<><>::
+Exclamation Out 02.png::CompressedTexture2D::8365618048537692264::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Dialogue/Interrogation/::1713383070
+Interrogation In 01.png::CompressedTexture2D::132820976044540138::1713383064::1713383070::1::::<><>::
+Interrogation In 02.png::CompressedTexture2D::2698928064333790384::1713383064::1713383070::1::::<><>::
+Interrogation In 03.png::CompressedTexture2D::5246995015955833420::1713383064::1713383070::1::::<><>::
+Interrogation Out 01.png::CompressedTexture2D::1884509736770302646::1713383064::1713383070::1::::<><>::
+Interrogation Out 02.png::CompressedTexture2D::55613393072506683::1713383064::1713383070::1::::<><>::
+::res://assets/Captain Clown Nose/Sprites/Dust Particles/::1713383070
+Fall 01.png::CompressedTexture2D::5789798790981550601::1713383064::1713383070::1::::<><>::
+Fall 02.png::CompressedTexture2D::84451901266958362::1713383064::1713383070::1::::<><>::
+Fall 03.png::CompressedTexture2D::6749542996620689523::1713383064::1713383070::1::::<><>::
+Fall 04.png::CompressedTexture2D::3707757492229127677::1713383064::1713383070::1::::<><>::
+Fall 05.png::CompressedTexture2D::492490480464500966::1713383064::1713383070::1::::<><>::
+Jump 01.png::CompressedTexture2D::6414506164552684805::1713383064::1713383070::1::::<><>::
+Jump 02.png::CompressedTexture2D::2371452491987861084::1713383064::1713383070::1::::<><>::
+Jump 03.png::CompressedTexture2D::6119037012077373573::1713383064::1713383070::1::::<><>::
+Jump 04.png::CompressedTexture2D::6145886925680074399::1713383064::1713383070::1::::<><>::
+Jump 05.png::CompressedTexture2D::6986606171045631503::1713383064::1713383070::1::::<><>::
+Jump 06.png::CompressedTexture2D::6349781782972337963::1713383064::1713383070::1::::<><>::
+Run 01.png::CompressedTexture2D::3181512217272384872::1713383064::1713383070::1::::<><>::
+Run 02.png::CompressedTexture2D::1000912576257165351::1713383064::1713383070::1::::<><>::
+Run 03.png::CompressedTexture2D::5441445289702667876::1713383064::1713383070::1::::<><>::
+Run 04.png::CompressedTexture2D::7157362042360159881::1713383064::1713383070::1::::<><>::
+Run 05.png::CompressedTexture2D::8234744566990901237::1713383064::1713383070::1::::<><>::
+::res://scenes/::1713385622
+main.tscn::PackedScene::4478309184833900234::1713385622::0::1::::<><>::res://scripts/player/Player.gd<>uid://ccok26pldaayp::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png<>uid://cujlrxl0s3qve::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 02.png<>uid://bsf7jbcue0qh7::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png<>uid://cj8atm3mryfie::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 03.png<>uid://dajertm2ij20l::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png<>uid://chbrlpp3bueoq::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png<>uid://duavmixbap6tl::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png<>uid://ddli41fmw25ke::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png<>uid://dgq2tn5k8tpyh::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png<>uid://dklr0wugky7yi::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png<>uid://dybvpyk6fi2i0::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png<>uid://yifj4xkqewnf::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png<>uid://341qwj6ncavx::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png<>uid://b4l5n6yxiqx4g::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png<>uid://dfjpbe305u4ev::::res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png
+::res://scripts/::1713384792
+::res://scripts/player/::1713385622
+Player.gd::GDScript::-1::1713385622::0::1::::<>CharacterBody2D<>::
