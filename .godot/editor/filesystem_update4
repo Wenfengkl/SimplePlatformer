@@ -1,2 +1,3 @@
 res://scenes/main.tscn
-res://scripts/Player/Player.gd
+res://scripts/Player/states/player_jump_state.gd
+res://scripts/Player/states/player_fall_state.gd
