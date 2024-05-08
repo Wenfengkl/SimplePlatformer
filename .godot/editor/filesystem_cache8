@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1715118399
+::res://::1715197475
 icon.svg::CompressedTexture2D::4332617626860069270::1714053340::1714053340::1::::<><>::
-::res://assets/::1714687265
+::res://assets/::1715197475
 ::res://assets/Captain Clown Nose/::1714687265
 ::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/::1714053340
 ::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/::1714053340
@@ -148,7 +148,7 @@ Back Palm Tree Right 01.png::CompressedTexture2D::3848256240938086033::171405334
 Back Palm Tree Right 02.png::CompressedTexture2D::8417366082447382032::1714053340::1714053340::1::::<><>::
 Back Palm Tree Right 03.png::CompressedTexture2D::2473084302675294297::1714053340::1714053340::1::::<><>::
 Back Palm Tree Right 04.png::CompressedTexture2D::2330776147368324142::1714053340::1714053340::1::::<><>::
-::res://assets/Palm Tree Island/Sprites/Background/::1714053340
+::res://assets/Palm Tree Island/Sprites/Background/::1715197475
 Additional Sky.png::CompressedTexture2D::362557186578874121::1714053340::1714053340::1::::<><>::
 Additional Water.png::CompressedTexture2D::8562193531582332285::1714053340::1714053340::1::::<><>::
 BG Image.png::CompressedTexture2D::6431583356225066039::1714053340::1714053340::1::::<><>::
@@ -222,18 +222,172 @@ Ship Helm Turn 04.png::CompressedTexture2D::6069183862427574176::1714053340::171
 Spikes.png::CompressedTexture2D::5819585613532231554::1714053340::1714053340::1::::<><>::
 ::res://assets/Palm Tree Island/Sprites/Terrain/::1714053340
 Terrain (32x32).png::CompressedTexture2D::3253950701619611033::1714053340::1714053340::1::::<><>::
-::res://scenes/::1715035679
-main.tscn::PackedScene::1951744482727930480::1715035679::0::1::::<><>::uid://bmmidfdohyadd::::res://assets/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png<>uid://5l2cixw2olcu::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png<>uid://budgd7iby4gyb::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png<>res://scripts/Player/player.gd<>uid://crttx2fqr0vyw::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 02.png<>uid://bcmm3lqjyvgbf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 03.png<>uid://d1suj2t4agtjq::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png<>uid://jqimr8rv0tjo::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png<>uid://tb0fwry0en8f::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png<>uid://bptaxv86o1cpl::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png<>uid://bdjkec7hrkxio::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png<>uid://das6qgk4d2ouf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png<>uid://bdyep21jy1xkd::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png<>uid://corx5blv7oj0s::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png<>uid://dxyb11i6okpvg::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png<>uid://ds1dt7j5a67ew::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png<>uid://7hpx43jbmct2::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png<>res://scripts/fsm/fsm.gd<>res://scripts/Player/states/player_idle_state.gd<>res://scripts/Player/states/player_run_state.gd<>res://scripts/Player/states/player_jump_state.gd<>res://scripts/Player/states/player_fall_state.gd<>res://scripts/Player/input_handler.gd
-::res://scripts/::1714687265
+::res://assets/Pirate Treasure/::1715197433
+::res://assets/Pirate Treasure/Aseprite/::1715197433
+::res://assets/Pirate Treasure/Sprites/::1715197434
+::res://assets/Pirate Treasure/Sprites/Big Map/::1715197434
+::res://assets/Pirate Treasure/Sprites/Big Map/Folding/::1715197475
+01.png::CompressedTexture2D::1436201543418204959::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::1953031527667074335::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::5798440373420751046::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::3807287515500948817::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Big Map/Idle/::1715197475
+01.png::CompressedTexture2D::2739993659320993543::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::910891252960820974::1715197434::1715197475::1::::<><>::
+03.png::CompressedTexture2D::1361364449502284980::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::2811210196545052078::1715197434::1715197475::1::::<><>::
+05.png::CompressedTexture2D::1058569477581926665::1715197434::1715197475::1::::<><>::
+06.png::CompressedTexture2D::4903463395544937791::1715197434::1715197475::1::::<><>::
+07.png::CompressedTexture2D::6888298109498247667::1715197434::1715197475::1::::<><>::
+08.png::CompressedTexture2D::1166136484940059925::1715197434::1715197475::1::::<><>::
+09.png::CompressedTexture2D::5858241288096908280::1715197434::1715197475::1::::<><>::
+10.png::CompressedTexture2D::7565884643698109767::1715197434::1715197475::1::::<><>::
+11.png::CompressedTexture2D::6377681744433401065::1715197434::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Big Map/Unfolding/::1715197475
+01.png::CompressedTexture2D::3358098658371568977::1715197434::1715197475::1::::<><>::
+02.png::CompressedTexture2D::3523810552484259229::1715197434::1715197475::1::::<><>::
+03.png::CompressedTexture2D::7851241142123020141::1715197434::1715197475::1::::<><>::
+04.png::CompressedTexture2D::7847626013740913989::1715197434::1715197475::1::::<><>::
+05.png::CompressedTexture2D::1296834798478485406::1715197434::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Blue Diamond/::1715197475
+01.png::CompressedTexture2D::6332007882301993025::1715197434::1715197475::1::::<><>::
+02.png::CompressedTexture2D::5891946815980337005::1715197434::1715197475::1::::<><>::
+03.png::CompressedTexture2D::1387510909112266624::1715197434::1715197475::1::::<><>::
+04.png::CompressedTexture2D::6554161048548089007::1715197434::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Blue Potion/::1715197475
+01.png::CompressedTexture2D::6292028030109691977::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::6386231367854591306::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::4073439938041744152::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::5432530249824764570::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::8339426408854235402::1715197433::1715197475::1::::<><>::
+06.png::CompressedTexture2D::9160298218510593881::1715197433::1715197475::1::::<><>::
+07.png::CompressedTexture2D::4834223005805825010::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Coin Effect/::1715197475
+01.png::CompressedTexture2D::6760802400390177082::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::7472214556973556617::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::2998635077576555247::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Diamond Effect/::1715197475
+01.png::CompressedTexture2D::8743872494506812351::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::6249113407919948459::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::3717037844803480904::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::889348507613979570::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Gold Coin/::1715197475
+01.png::CompressedTexture2D::6988525801527077752::1715197434::1715197475::1::::<><>::
+02.png::CompressedTexture2D::9191917355863396509::1715197434::1715197475::1::::<><>::
+03.png::CompressedTexture2D::5569841343948384260::1715197434::1715197475::1::::<><>::
+04.png::CompressedTexture2D::6892486752849141682::1715197434::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Golden Skull/::1715197475
+01.png::CompressedTexture2D::7142698063824877551::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::2399158440334374317::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::8433820798514010272::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::5565172498434196426::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::7927916907561065258::1715197433::1715197475::1::::<><>::
+06.png::CompressedTexture2D::6134882980801870693::1715197433::1715197475::1::::<><>::
+07.png::CompressedTexture2D::2530813339486495047::1715197433::1715197475::1::::<><>::
+08.png::CompressedTexture2D::2892916693498916627::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Green Bottle/::1715197475
+01.png::CompressedTexture2D::872066446465004729::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::5962909174464370598::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::3592322543109279150::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::8313357272280989454::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::2016764897079110749::1715197433::1715197475::1::::<><>::
+06.png::CompressedTexture2D::2868379421425941961::1715197433::1715197475::1::::<><>::
+07.png::CompressedTexture2D::7321428313883982267::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Green Diamond/::1715197475
+01.png::CompressedTexture2D::58117180255448754::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::5794798936589564708::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::3863720206968959630::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::4642872035397213673::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Map Effect/::1715197433
+::res://assets/Pirate Treasure/Sprites/Map Effect/In/::1715197475
+01.png::CompressedTexture2D::3769730916508386636::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::2650098721180639220::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::8694192682190674547::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Map Effect/Out/::1715197475
+01.png::CompressedTexture2D::6655659252755595144::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::6445524908798451640::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::7445007162190615965::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Potion Effect/::1715197475
+01.png::CompressedTexture2D::296972586142709985::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::5312942029597202699::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::5894799639295604596::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::7893142979321368959::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Red Diamond/::1715197475
+01.png::CompressedTexture2D::2268383937816449409::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::2474386351755112454::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::7463394083690620156::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::3041272311328431905::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Red Potion/::1715197475
+01.png::CompressedTexture2D::9110832706126107866::1715197434::1715197475::1::::<><>::
+02.png::CompressedTexture2D::7551435020812860264::1715197434::1715197475::1::::<><>::
+03.png::CompressedTexture2D::6291662849482898130::1715197434::1715197475::1::::<><>::
+04.png::CompressedTexture2D::2002522051957316502::1715197434::1715197475::1::::<><>::
+05.png::CompressedTexture2D::677892185482782471::1715197434::1715197475::1::::<><>::
+06.png::CompressedTexture2D::8912216127710355997::1715197434::1715197475::1::::<><>::
+07.png::CompressedTexture2D::1356745469671560863::1715197434::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Silver Coin/::1715197475
+01.png::CompressedTexture2D::695764346534614303::1715197434::1715197475::1::::<><>::
+02.png::CompressedTexture2D::4285265863159733503::1715197434::1715197475::1::::<><>::
+03.png::CompressedTexture2D::8918705386141858330::1715197434::1715197475::1::::<><>::
+04.png::CompressedTexture2D::5312942149772195148::1715197434::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Skull Effect/::1715197475
+01.png::CompressedTexture2D::4892314206767914969::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::3151443090970660718::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::2825950003302714163::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::2650985324678567282::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::3940681526292230458::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Small Maps/::1715197433
+::res://assets/Pirate Treasure/Sprites/Small Maps/Small Map 1/::1715197475
+01.png::CompressedTexture2D::1929135770380041401::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::6512413142332171409::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::5132147163149285198::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::2207122069540218660::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::8411870998108762779::1715197433::1715197475::1::::<><>::
+06.png::CompressedTexture2D::5711926252787915096::1715197433::1715197475::1::::<><>::
+07.png::CompressedTexture2D::416342432540858920::1715197433::1715197475::1::::<><>::
+08.png::CompressedTexture2D::3200165214830026288::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Small Maps/Small Map 2/::1715197475
+01.png::CompressedTexture2D::4372711625401217259::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::1260766760101687138::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::4026929600206896458::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::62139317755892672::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::7132184573714644806::1715197433::1715197475::1::::<><>::
+06.png::CompressedTexture2D::819129959725886498::1715197433::1715197475::1::::<><>::
+07.png::CompressedTexture2D::2628657134634641047::1715197433::1715197475::1::::<><>::
+08.png::CompressedTexture2D::7377385105421973911::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Small Maps/Small Map 3/::1715197475
+01.png::CompressedTexture2D::593869456483733962::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::653643842814810149::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::4876670428443065590::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::1482291535807966750::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::9026922136952229888::1715197433::1715197475::1::::<><>::
+06.png::CompressedTexture2D::7550813639365493914::1715197433::1715197475::1::::<><>::
+07.png::CompressedTexture2D::7321153995486694572::1715197433::1715197475::1::::<><>::
+08.png::CompressedTexture2D::939152321295592347::1715197433::1715197475::1::::<><>::
+::res://assets/Pirate Treasure/Sprites/Small Maps/Small Map 4/::1715197475
+01.png::CompressedTexture2D::710988416899828815::1715197433::1715197475::1::::<><>::
+02.png::CompressedTexture2D::606369668765899265::1715197433::1715197475::1::::<><>::
+03.png::CompressedTexture2D::8267039681454220945::1715197433::1715197475::1::::<><>::
+04.png::CompressedTexture2D::8131253823155419109::1715197433::1715197475::1::::<><>::
+05.png::CompressedTexture2D::4917927592366731134::1715197433::1715197475::1::::<><>::
+06.png::CompressedTexture2D::4696578489280587322::1715197433::1715197475::1::::<><>::
+07.png::CompressedTexture2D::8536946254531123693::1715197433::1715197475::1::::<><>::
+08.png::CompressedTexture2D::4973519073556055108::1715197433::1715197475::1::::<><>::
+::res://scenes/::1715199190
+main.tscn::PackedScene::1951744482727930480::1715199190::0::1::::<><>::uid://bmmidfdohyadd::::res://assets/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png<>uid://5l2cixw2olcu::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png<>uid://budgd7iby4gyb::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png<>res://scripts/Player/player.gd<>uid://ffvi8cbkc7m8::::res://assets/Palm Tree Island/Sprites/Background/Additional Sky.png<>uid://crttx2fqr0vyw::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 02.png<>uid://cxvridmv383r4::::res://assets/Palm Tree Island/Sprites/Background/BG Image.png<>uid://bcmm3lqjyvgbf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 03.png<>uid://dt8ucupjd8hcf::::res://assets/Palm Tree Island/Sprites/Background/Additional Water.png<>uid://bx3ebsscanr4s::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 01.png<>uid://d1suj2t4agtjq::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png<>uid://cu6joisds13f8::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 02.png<>uid://jqimr8rv0tjo::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png<>uid://tb0fwry0en8f::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png<>uid://bubh5kkgfrkdf::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 03.png<>uid://bagk2g4xakgts::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 04.png<>uid://bptaxv86o1cpl::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png<>uid://d06h3y65vw3js::::res://assets/Palm Tree Island/Sprites/Background/Big Clouds.png<>uid://bdjkec7hrkxio::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png<>res://scenes/scrolling_background.gd<>uid://das6qgk4d2ouf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png<>uid://bgpq44o6c778g::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 1.png<>uid://0afkeouhpfaa::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 2.png<>uid://bdyep21jy1xkd::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png<>uid://wxce1cooxtgl::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 3.png<>uid://corx5blv7oj0s::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png<>uid://dxyb11i6okpvg::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png<>uid://ds1dt7j5a67ew::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png<>res://scripts/collectable/gold_coin.gd<>uid://7hpx43jbmct2::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png<>uid://c3k8osra5lhmo::::res://assets/Pirate Treasure/Sprites/Coin Effect/01.png<>uid://depujubwoq0yv::::res://assets/Pirate Treasure/Sprites/Coin Effect/02.png<>uid://biytc1mb53epb::::res://assets/Pirate Treasure/Sprites/Coin Effect/03.png<>uid://c6tj870l0l1w3::::res://assets/Pirate Treasure/Sprites/Gold Coin/01.png<>res://scripts/fsm/fsm.gd<>res://scripts/Player/states/player_idle_state.gd<>uid://d37vshq271xpt::::res://assets/Pirate Treasure/Sprites/Gold Coin/02.png<>uid://clmcqc8rhcn8o::::res://assets/Pirate Treasure/Sprites/Gold Coin/03.png<>res://scripts/Player/states/player_run_state.gd<>uid://c5g1iq1yedkbq::::res://assets/Pirate Treasure/Sprites/Gold Coin/04.png<>res://scripts/Player/states/player_jump_state.gd<>res://scripts/Player/states/player_fall_state.gd<>res://scripts/Player/input_handler.gd
+scrolling_background.gd::GDScript::-1::1715196684::0::1::::<>ParallaxLayer<>::
+::res://scripts/::1715198471
+::res://scripts/collectable/::1715199132
+gold_coin.gd::GDScript::-1::1715199132::0::1::::<>Area2D<>::
 ::res://scripts/fsm/::1715033948
 fsm.gd::GDScript::-1::1715033948::0::1::::FSM<>Node<>::
 state.gd::GDScript::-1::1714053340::0::1::::State<>Node<>::
-::res://scripts/Player/::1715035679
+::res://scripts/Player/::1715198554
 input_handler.gd::GDScript::-1::1715035679::0::1::::<>Node<>::
-player.gd::GDScript::-1::1714688644::0::1::::Player<>CharacterBody2D<>::
-::res://scripts/Player/states/::1715033970
+player.gd::GDScript::-1::1715198554::0::1::::Player<>CharacterBody2D<>::
+::res://scripts/Player/states/::1715118998
 player_base_state.gd::GDScript::-1::1715033929::0::1::::PlayerBaseState<>State<>::
-player_fall_state.gd::GDScript::-1::1714689183::0::1::::<>PlayerBaseState<>::
+player_fall_state.gd::GDScript::-1::1715118822::0::1::::<>PlayerBaseState<>::
 player_idle_state.gd::GDScript::-1::1715033970::0::1::::<>PlayerBaseState<>::
-player_jump_state.gd::GDScript::-1::1714053340::0::1::::<>PlayerBaseState<>::
+player_jump_state.gd::GDScript::-1::1715118998::0::1::::<>PlayerBaseState<>::
 player_run_state.gd::GDScript::-1::1714688479::0::1::::<>PlayerBaseState<>::
