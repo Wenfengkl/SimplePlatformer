@@ -1,3 +1,6 @@
+Timer
+AnimationPlayer
+AudioStreamPlayer
 CollisionShape2D
 AnimatedSprite2D
 Area2D
@@ -6,7 +9,6 @@ Sprite2D
 ParallaxLayer
 ParallaxBackground
 Camera2D
-Timer
 Node
 TileMap
 CharacterBody2D
