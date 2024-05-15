@@ -17,5 +17,5 @@ func physics_update(delta):
 		if input.jump_buffer:
 			change_state ("jump")
 		else:
-			change_state ("idle" if input. x == 0 else "run")
+			change_state ("idle" if input.x == 0 else "run")
 			sfx.play()

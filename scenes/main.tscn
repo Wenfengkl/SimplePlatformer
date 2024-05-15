@@ -1,4 +1,4 @@
-[gd_scene load_steps=61 format=3 uid="uid://22o7geln7opk"]
+[gd_scene load_steps=64 format=3 uid="uid://22o7geln7opk"]
 
 [ext_resource type="Texture2D" uid="uid://bmmidfdohyadd" path="res://assets/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png" id="1_3uqkv"]
 [ext_resource type="Texture2D" uid="uid://5l2cixw2olcu" path="res://assets/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png" id="1_jsquf"]
@@ -27,9 +27,12 @@
 [ext_resource type="Texture2D" uid="uid://wxce1cooxtgl" path="res://assets/Palm Tree Island/Sprites/Background/Small Cloud 3.png" id="11_57di2"]
 [ext_resource type="Texture2D" uid="uid://corx5blv7oj0s" path="res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png" id="11_y4vdg"]
 [ext_resource type="Texture2D" uid="uid://dxyb11i6okpvg" path="res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png" id="12_3vpa6"]
+[ext_resource type="Theme" uid="uid://cses8x87gc8cg" path="res://scenes/themes/yollow_board_theme.tres" id="13_bqf0h"]
 [ext_resource type="Texture2D" uid="uid://ds1dt7j5a67ew" path="res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png" id="13_hn7pc"]
 [ext_resource type="Texture2D" uid="uid://7hpx43jbmct2" path="res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png" id="14_nted0"]
 [ext_resource type="PackedScene" uid="uid://bahqss73kv84c" path="res://scenes/collectables/gold_coin.tscn" id="14_ualcy"]
+[ext_resource type="Theme" uid="uid://cilv18sp55hda" path="res://scenes/themes/banner_theme.tres" id="14_xgs5a"]
+[ext_resource type="Theme" uid="uid://d2jh2tfigs8u2" path="res://scenes/themes/paper_theme.tres" id="15_ib2ku"]
 [ext_resource type="Texture2D" uid="uid://bbopxhql2pkbs" path="res://assets/Captain Clown Nose/Captain Clown Nose with Sword/12-Fall Sword/Fall Sword 01.png" id="17_dwv4j"]
 [ext_resource type="Script" path="res://scripts/fsm/fsm.gd" id="18_kakbf"]
 [ext_resource type="Script" path="res://scripts/Player/states/player_idle_state.gd" id="19_hqfwx"]
@@ -688,7 +691,7 @@ position = Vector2(65, 0)
 motion_scale = Vector2(2.08165e-12, 1)
 
 [node name="Sky" type="Sprite2D" parent="ParallaxBackground/Backgroundayer"]
-position = Vector2(1, -372)
+position = Vector2(0, -372)
 scale = Vector2(11.9688, 12.625)
 texture = ExtResource("1_m0q57")
 centered = false
@@ -699,8 +702,8 @@ texture = ExtResource("2_rb13s")
 centered = false
 
 [node name="Water" type="Sprite2D" parent="ParallaxBackground/Backgroundayer"]
-position = Vector2(1, 160)
-scale = Vector2(11.9688, 1)
+position = Vector2(0, 160)
+scale = Vector2(12, 1)
 texture = ExtResource("3_vd74c")
 centered = false
 
@@ -778,103 +781,228 @@ position = Vector2(0, 18)
 texture = ExtResource("8_52ydf")
 centered = false
 
-[node name="TileMap" type="TileMap" parent="."]
+[node name="MainMenu" type="CanvasLayer" parent="."]
+visible = false
+
+[node name="PanelContainer" type="PanelContainer" parent="MainMenu"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -67.0
+offset_top = -39.0
+offset_right = 67.0
+offset_bottom = 39.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("13_bqf0h")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MainMenu/PanelContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_constants/separation = 18
+
+[node name="PanelContainer" type="PanelContainer" parent="MainMenu/PanelContainer/VBoxContainer"]
+layout_mode = 2
+theme = ExtResource("14_xgs5a")
+
+[node name="Label" type="Label" parent="MainMenu/PanelContainer/VBoxContainer/PanelContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "treasure hunters "
+
+[node name="PanelContainer2" type="PanelContainer" parent="MainMenu/PanelContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("15_ib2ku")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MainMenu/PanelContainer/VBoxContainer/PanelContainer2"]
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="MainMenu/PanelContainer/VBoxContainer/PanelContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "continue"
+
+[node name="Label3" type="Label" parent="MainMenu/PanelContainer/VBoxContainer/PanelContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "new game"
+
+[node name="Label4" type="Label" parent="MainMenu/PanelContainer/VBoxContainer/PanelContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "options"
+
+[node name="Label5" type="Label" parent="MainMenu/PanelContainer/VBoxContainer/PanelContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "exit"
+
+[node name="PauseMenu" type="CanvasLayer" parent="."]
+visible = false
+
+[node name="ColorRect" type="ColorRect" parent="PauseMenu"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.443137)
+
+[node name="PanelContainer" type="PanelContainer" parent="PauseMenu"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("13_bqf0h")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PauseMenu/PanelContainer"]
+layout_mode = 2
+theme_override_constants/separation = -18
+
+[node name="PanelContainer" type="PanelContainer" parent="PauseMenu/PanelContainer/VBoxContainer"]
+layout_mode = 2
+theme = ExtResource("14_xgs5a")
+
+[node name="Label" type="Label" parent="PauseMenu/PanelContainer/VBoxContainer/PanelContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "paused"
+
+[node name="PanelContainer2" type="PanelContainer" parent="PauseMenu/PanelContainer/VBoxContainer"]
+layout_mode = 2
+theme = ExtResource("15_ib2ku")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PauseMenu/PanelContainer/VBoxContainer/PanelContainer2"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="Label" type="Label" parent="PauseMenu/PanelContainer/VBoxContainer/PanelContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "continue"
+
+[node name="Label2" type="Label" parent="PauseMenu/PanelContainer/VBoxContainer/PanelContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "options"
+
+[node name="Label3" type="Label" parent="PauseMenu/PanelContainer/VBoxContainer/PanelContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "main menu"
+
+[node name="World" type="Node2D" parent="."]
+
+[node name="TileMap" type="TileMap" parent="World"]
 position = Vector2(1, 0)
 tile_set = SubResource("TileSet_ckuf4")
 format = 2
 layer_0/tile_data = PackedInt32Array(262150, 393216, 1, 262151, 131072, 0, 327680, 65536, 4, 327681, 65536, 4, 327682, 65536, 4, 327683, 65536, 4, 327684, 655360, 4, 327685, 65536, 2, 327686, 65536, 2, 327687, 589824, 4, 327688, 65536, 4, 327689, 65536, 4, 262149, 458752, 1, 196614, 131072, 0, 262148, 0, 0, 196613, 0, 0, 393215, 65536, 4, 393214, 0, 4, 327690, 65536, 4, 327691, 65536, 4, 327692, 65536, 4, 327693, 65536, 4, 131079, 262144, 4, 65544, 262144, 4, 6, 262144, 4, -65531, 262144, 4, -131068, 262144, 4, -196605, 262144, 4, -262139, 262144, 4, 327694, 65536, 4, 327695, 65536, 4, 327696, 65536, 4, 327697, 65536, 4, 327698, 65536, 4, 327699, 65536, 4, 327701, 65536, 4, 327700, 65536, 4, 327702, 65536, 4, 327703, 65536, 4, 327704, 65536, 4, 327705, 65536, 4, 327706, 65536, 4, 327707, 65536, 4, 327708, 131072, 4)
 
-[node name="Coins" type="Node2D" parent="."]
+[node name="Coins" type="Node2D" parent="World"]
 
-[node name="GoldCoin10" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin10" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(175, -48)
 
-[node name="GoldCoin9" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin9" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(207, -16)
 
-[node name="GoldCoin8" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin8" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(271, 24)
 
-[node name="GoldCoin7" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin7" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(239, 48)
 
-[node name="GoldCoin6" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin6" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(191, 80)
 
-[node name="GoldCoin4" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin4" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(95, 144)
 
-[node name="GoldCoin3" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin3" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(71, 144)
 
-[node name="GoldCoin" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(23, 144)
 
-[node name="GoldCoin2" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin2" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(47, 144)
 
-[node name="GoldCoin5" parent="Coins" instance=ExtResource("14_ualcy")]
+[node name="GoldCoin5" parent="World/Coins" instance=ExtResource("14_ualcy")]
 position = Vector2(143, 112)
 
-[node name="Player" type="CharacterBody2D" parent="."]
+[node name="Player" type="CharacterBody2D" parent="World"]
 position = Vector2(-49, 145)
 collision_mask = 2
 script = ExtResource("1_lkf7o")
 metadata/_edit_group_ = true
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Player"]
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="World/Player"]
 sprite_frames = SubResource("SpriteFrames_pf4h0")
-animation = &"run"
+animation = &"idle"
 autoplay = "idle"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="World/Player"]
 position = Vector2(0, 2)
 shape = SubResource("RectangleShape2D_b14qm")
 
-[node name="FSM" type="Node" parent="Player"]
+[node name="FSM" type="Node" parent="World/Player"]
 script = ExtResource("18_kakbf")
 
-[node name="Idle" type="Node" parent="Player/FSM"]
+[node name="Idle" type="Node" parent="World/Player/FSM"]
 script = ExtResource("19_hqfwx")
 
-[node name="Run" type="Node" parent="Player/FSM"]
+[node name="Run" type="Node" parent="World/Player/FSM"]
 script = ExtResource("20_kqrs8")
 
-[node name="FootstepsseX" type="AudioStreamPlayer" parent="Player/FSM/Run"]
+[node name="FootstepsSFX" type="AudioStreamPlayer" parent="World/Player/FSM/Run"]
 stream = ExtResource("49_geub2")
 bus = &"SFX"
 
-[node name="FootstepsTimer" type="Timer" parent="Player/FSM/Run"]
+[node name="FootstepsTimer" type="Timer" parent="World/Player/FSM/Run"]
 wait_time = 0.3
 
-[node name="Jump" type="Node" parent="Player/FSM"]
+[node name="Jump" type="Node" parent="World/Player/FSM"]
 script = ExtResource("21_weitm")
 
-[node name="JumpSFX" type="AudioStreamPlayer" parent="Player/FSM/Jump"]
+[node name="JumpSFX" type="AudioStreamPlayer" parent="World/Player/FSM/Jump"]
 stream = ExtResource("50_83mkn")
 bus = &"SFX"
 
-[node name="Fall" type="Node" parent="Player/FSM"]
+[node name="Fall" type="Node" parent="World/Player/FSM"]
 script = ExtResource("22_rkpq1")
 
-[node name="CoyoteTimer" type="Timer" parent="Player/FSM/Fall"]
+[node name="CoyoteTimer" type="Timer" parent="World/Player/FSM/Fall"]
 process_callback = 0
 wait_time = 0.1
 one_shot = true
 
-[node name="LandingSFX" type="AudioStreamPlayer" parent="Player/FSM/Fall"]
+[node name="LandingSFX" type="AudioStreamPlayer" parent="World/Player/FSM/Fall"]
 stream = ExtResource("52_8unnv")
 bus = &"SFX"
 
-[node name="InputHandler" type="Node" parent="Player"]
+[node name="InputHandler" type="Node" parent="World/Player"]
 script = ExtResource("23_yoy56")
 
-[node name="JumpBufferTimer" type="Timer" parent="Player/InputHandler"]
+[node name="JumpBufferTimer" type="Timer" parent="World/Player/InputHandler"]
 process_callback = 0
 wait_time = 0.1
 one_shot = true
 
-[node name="Camera2D" type="Camera2D" parent="Player"]
+[node name="Camera2D" type="Camera2D" parent="World/Player"]
 limit_left = 0
 limit_bottom = 180
 drag_horizontal_enabled = true
@@ -882,7 +1010,7 @@ drag_vertical_enabled = true
 editor_draw_limits = true
 editor_draw_drag_margin = true
 
-[node name="Sword" parent="." instance=ExtResource("37_6wvoj")]
+[node name="Sword" parent="World" instance=ExtResource("37_6wvoj")]
 position = Vector2(-9, 144)
 
-[connection signal="timeout" from="Player/FSM/Run/FootstepsTimer" to="Player/FSM/Run" method="_on_footsteps_timer_timeout"]
+[connection signal="timeout" from="World/Player/FSM/Run/FootstepsTimer" to="World/Player/FSM/Run" method="_on_footsteps_timer_timeout"]

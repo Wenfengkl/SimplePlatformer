@@ -1,10 +1,3 @@
-res://default_bus_layout.tres
 res://scenes/main.tscn
 res://scenes/collectables/sword.gd
 res://scenes/scrolling_background.gd
-res://scripts/Player/states/player_jump_state.gd
-res://scenes/collectables/gold_coin.tscn
-res://scripts/collectable/gold_coin.gd
-res://scenes/collectables/sword.tscn
-res://scripts/Player/states/player_fall_state.gd
-res://scripts/Player/states/player_run_state.gd

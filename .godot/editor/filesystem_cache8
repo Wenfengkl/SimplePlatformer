@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1715638216
-icon.svg::CompressedTexture2D::4332617626860069270::1714053340::1714053340::1::::<><>::
+::res://::1715801174
 default_bus_layout.tres::AudioBusLayout::7494562152921117241::1715638216::0::1::::<><>::
-::res://assets/::1715638584
+icon.svg::CompressedTexture2D::4332617626860069270::1714053340::1714053340::1::::<><>::
+::res://assets/::1715723132
 Collectibles_8.wav::AudioStreamWAV::5446964006393224058::1715294623::1715638606::1::::<><>::
 Jump_3.wav::AudioStreamWAV::502414455531951941::1715294675::1715294675::1::::<><>::
 Powerup_4.wav::AudioStreamWAV::6636421743020357041::1715294731::1715294731::1::::<><>::
@@ -379,25 +379,398 @@ Terrain (32x32).png::CompressedTexture2D::3253950701619611033::1714053340::17140
 06.png::CompressedTexture2D::4696578489280587322::1715197433::1715197475::1::::<><>::
 07.png::CompressedTexture2D::8536946254531123693::1715197433::1715197475::1::::<><>::
 08.png::CompressedTexture2D::4973519073556055108::1715197433::1715197475::1::::<><>::
-::res://scenes/::1715638367
-main.tscn::PackedScene::1951744482727930480::1715638367::0::1::::<><>::uid://bmmidfdohyadd::::res://assets/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png<>uid://5l2cixw2olcu::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png<>uid://budgd7iby4gyb::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png<>res://scripts/Player/player.gd<>uid://ffvi8cbkc7m8::::res://assets/Palm Tree Island/Sprites/Background/Additional Sky.png<>uid://crttx2fqr0vyw::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 02.png<>uid://cxvridmv383r4::::res://assets/Palm Tree Island/Sprites/Background/BG Image.png<>uid://bcmm3lqjyvgbf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 03.png<>uid://dt8ucupjd8hcf::::res://assets/Palm Tree Island/Sprites/Background/Additional Water.png<>uid://bx3ebsscanr4s::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 01.png<>uid://d1suj2t4agtjq::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png<>uid://cu6joisds13f8::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 02.png<>uid://jqimr8rv0tjo::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png<>uid://tb0fwry0en8f::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png<>uid://bubh5kkgfrkdf::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 03.png<>uid://bagk2g4xakgts::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 04.png<>uid://bptaxv86o1cpl::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png<>uid://d06h3y65vw3js::::res://assets/Palm Tree Island/Sprites/Background/Big Clouds.png<>uid://bdjkec7hrkxio::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png<>res://scenes/scrolling_background.gd<>uid://das6qgk4d2ouf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png<>uid://bgpq44o6c778g::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 1.png<>uid://0afkeouhpfaa::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 2.png<>uid://bdyep21jy1xkd::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png<>uid://wxce1cooxtgl::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 3.png<>uid://corx5blv7oj0s::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png<>uid://dxyb11i6okpvg::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png<>uid://ds1dt7j5a67ew::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png<>uid://7hpx43jbmct2::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png<>uid://bahqss73kv84c::::res://scenes/collectables/gold_coin.tscn<>uid://bbopxhql2pkbs::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/12-Fall Sword/Fall Sword 01.png<>res://scripts/fsm/fsm.gd<>res://scripts/Player/states/player_idle_state.gd<>res://scripts/Player/states/player_run_state.gd<>res://scripts/Player/states/player_jump_state.gd<>res://scripts/Player/states/player_fall_state.gd<>uid://b0rkivhns713u::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 01.png<>res://scripts/Player/input_handler.gd<>uid://dbv6e12okce2j::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 02.png<>uid://dbfi8sha2fy0i::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 03.png<>uid://dy7fevpkjorgo::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 04.png<>uid://cflv1xq375j35::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 05.png<>uid://dt0dej2ox25tp::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 01.png<>uid://c4iufb4gva1on::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 02.png<>uid://d0ycrlpgyb88e::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 03.png<>uid://cna1yxfed2o7y::::res://scenes/collectables/sword.tscn<>uid://ciu0f8a36ib3y::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 01.png<>uid://vewq6bdsl8dy::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 02.png<>uid://hv0pqw7kqm2q::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 03.png<>uid://bs1rlx60lraoo::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 04.png<>uid://belxvm0g5qcno::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 05.png<>uid://j3mgql2buqbm::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 06.png<>uid://hfmxs0b2mna8::::res://assets/Jump_3.wav
-scrolling_background.gd::GDScript::-1::1715638325::0::1::::<>ParallaxLayer<>::
-::res://scenes/collectables/::1715638367
-gold_coin.tscn::PackedScene::2401875940286534696::1715638367::0::1::::<><>::res://scripts/collectable/gold_coin.gd<>uid://c3k8osra5lhmo::::res://assets/Pirate Treasure/Sprites/Coin Effect/01.png<>uid://depujubwoq0yv::::res://assets/Pirate Treasure/Sprites/Coin Effect/02.png<>uid://biytc1mb53epb::::res://assets/Pirate Treasure/Sprites/Coin Effect/03.png<>uid://c6tj870l0l1w3::::res://assets/Pirate Treasure/Sprites/Gold Coin/01.png<>uid://d37vshq271xpt::::res://assets/Pirate Treasure/Sprites/Gold Coin/02.png<>uid://clmcqc8rhcn8o::::res://assets/Pirate Treasure/Sprites/Gold Coin/03.png<>uid://c5g1iq1yedkbq::::res://assets/Pirate Treasure/Sprites/Gold Coin/04.png
-sword.gd::GDScript::-1::1715638325::0::1::::<>Area2D<>::
-sword.tscn::PackedScene::5686919051494173272::1715291575::0::1::::<><>::res://scenes/collectables/sword.gd<>uid://dk556u674g8bc::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 01.png<>uid://daivxtibjn0wh::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 02.png<>uid://d2m1njhhk20ri::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 03.png<>uid://cxkvjn6g44hm5::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 04.png<>uid://c12sadc0xqiw4::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 05.png<>uid://co3t2asqumvms::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 06.png<>uid://ivfb7dcdn28h::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 07.png<>uid://uo1ogkpqpfao::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 08.png
+::res://assets/Wood and Paper UI/::1715723132
+::res://assets/Wood and Paper UI/Aseprite/::1715723132
+::res://assets/Wood and Paper UI/Sprites/::1715723133
+::res://assets/Wood and Paper UI/Sprites/Big Banner/::1715723133
+1.png::CompressedTexture2D::3883543306307816383::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::7722202264759721656::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::7833746866629832832::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::2878905312956336215::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::2592081866280424959::1715723132::1715723133::1::::<><>::
+6.png::CompressedTexture2D::1055930542244746040::1715723132::1715723133::1::::<><>::
+7.png::CompressedTexture2D::675760074544537052::1715723132::1715723133::1::::<><>::
+8.png::CompressedTexture2D::841165671819720622::1715723132::1715723133::1::::<><>::
+9.png::CompressedTexture2D::2108947048464597586::1715723132::1715723133::1::::<><>::
+10.png::CompressedTexture2D::4441328206990095235::1715723132::1715723133::1::::<><>::
+11.png::CompressedTexture2D::7680826382618018549::1715723132::1715723133::1::::<><>::
+12.png::CompressedTexture2D::5290522442892021271::1715723132::1715723133::1::::<><>::
+13.png::CompressedTexture2D::3193855687428609040::1715723132::1715723133::1::::<><>::
+14.png::CompressedTexture2D::4685764890332343092::1715723132::1715723133::1::::<><>::
+15.png::CompressedTexture2D::2455393440258862478::1715723132::1715723133::1::::<><>::
+16.png::CompressedTexture2D::6390221388925059805::1715723132::1715723133::1::::<><>::
+17.png::CompressedTexture2D::3034728207886911857::1715723132::1715723133::1::::<><>::
+18.png::CompressedTexture2D::8071047775738353178::1715723132::1715723133::1::::<><>::
+19.png::CompressedTexture2D::4176362650749207009::1715723132::1715723133::1::::<><>::
+20.png::CompressedTexture2D::9124959312323528775::1715723132::1715723133::1::::<><>::
+21.png::CompressedTexture2D::8482886275441360046::1715723132::1715723133::1::::<><>::
+22.png::CompressedTexture2D::4298099107267385314::1715723132::1715723133::1::::<><>::
+23.png::CompressedTexture2D::4547414565762403048::1715723132::1715723133::1::::<><>::
+24.png::CompressedTexture2D::9113163550136519100::1715723132::1715723133::1::::<><>::
+25.png::CompressedTexture2D::7753214102340758071::1715723132::1715723133::1::::<><>::
+26.png::CompressedTexture2D::8381676417866251305::1715723132::1715723133::1::::<><>::
+27.png::CompressedTexture2D::7573176457130544812::1715723132::1715723133::1::::<><>::
+28.png::CompressedTexture2D::1044599755340716191::1715723132::1715723133::1::::<><>::
+29.png::CompressedTexture2D::299457163458735994::1715723132::1715723133::1::::<><>::
+30.png::CompressedTexture2D::7395094289595432497::1715723132::1715723133::1::::<><>::
+31.png::CompressedTexture2D::4080661481974230333::1715723132::1715723133::1::::<><>::
+32.png::CompressedTexture2D::5312540255587238246::1715723132::1715723133::1::::<><>::
+33.png::CompressedTexture2D::5818691644888883451::1715723132::1715723133::1::::<><>::
+Big Banner (guide).png::CompressedTexture2D::8853342179320595520::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Big Text/::1715723133
+1.png::CompressedTexture2D::768698233277055831::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::1443020820372255818::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::7234374461566988805::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::692258165992243934::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::787256458953634490::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::5612703613790210130::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::4904946096104097968::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::5857608616845495700::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::1030138700414709727::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::1977155634026618241::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::1891898783981810201::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::6070914369131922424::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::4380588296061785081::1715723133::1715723133::1::::<><>::
+14.png::CompressedTexture2D::32231821590945079::1715723133::1715723133::1::::<><>::
+15.png::CompressedTexture2D::7972836183369797994::1715723133::1715723133::1::::<><>::
+16.png::CompressedTexture2D::815629309049827145::1715723133::1715723133::1::::<><>::
+17.png::CompressedTexture2D::7067127515025936207::1715723133::1715723133::1::::<><>::
+18.png::CompressedTexture2D::4269947250106515323::1715723133::1715723133::1::::<><>::
+19.png::CompressedTexture2D::1825310280687070711::1715723133::1715723133::1::::<><>::
+20.png::CompressedTexture2D::5082123355529044453::1715723133::1715723133::1::::<><>::
+21.png::CompressedTexture2D::7940462316611021842::1715723133::1715723133::1::::<><>::
+22.png::CompressedTexture2D::6654464507704655263::1715723133::1715723133::1::::<><>::
+23.png::CompressedTexture2D::7410805100077888405::1715723133::1715723133::1::::<><>::
+24.png::CompressedTexture2D::1750159768723387432::1715723133::1715723133::1::::<><>::
+25.png::CompressedTexture2D::6015588404755696728::1715723133::1715723133::1::::<><>::
+26.png::CompressedTexture2D::8602442603939524453::1715723133::1715723133::1::::<><>::
+27.png::CompressedTexture2D::4146986255700839148::1715723133::1715723133::1::::<><>::
+28.png::CompressedTexture2D::8208508079105465993::1715723133::1715723133::1::::<><>::
+29.png::CompressedTexture2D::5529212033762078987::1715723133::1715723133::1::::<><>::
+30.png::CompressedTexture2D::4449250502070265685::1715723133::1715723133::1::::<><>::
+31.png::CompressedTexture2D::4093579938533123777::1715723133::1715723133::1::::<><>::
+32.png::CompressedTexture2D::1792849983025271551::1715723133::1715723133::1::::<><>::
+33.png::CompressedTexture2D::971491290484157385::1715723133::1715723133::1::::<><>::
+34.png::CompressedTexture2D::903856766469193180::1715723133::1715723133::1::::<><>::
+35.png::CompressedTexture2D::9075294509449925114::1715723133::1715723133::1::::<><>::
+36.png::CompressedTexture2D::1513451897456377820::1715723133::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Green Board/::1715723133
+1.png::CompressedTexture2D::7034601752796569165::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::5755560203273657329::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::2879555499705282194::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::278053805447710123::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::2669622589989662881::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::5660412626019517255::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::6489676305412315403::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::4214709739736509903::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::1151994686639792852::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::8760905223521223068::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::5538169496982917628::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::1502702872857032461::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::1956597364657936378::1715723133::1715723133::1::::<><>::
+14.png::CompressedTexture2D::4648945917756486771::1715723133::1715723133::1::::<><>::
+15.png::CompressedTexture2D::2209423312888117910::1715723133::1715723133::1::::<><>::
+16.png::CompressedTexture2D::7692993995707247068::1715723133::1715723133::1::::<><>::
+Green Board (guide).png::CompressedTexture2D::7242565969852294138::1715723133::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Green Button/::1715723133
+1.png::CompressedTexture2D::1202071103534627115::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::4193089050982358546::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::5350506110602626566::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::1611224842069969766::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::5885755782734454863::1715723132::1715723133::1::::<><>::
+6.png::CompressedTexture2D::2400791324691736800::1715723132::1715723133::1::::<><>::
+7.png::CompressedTexture2D::8733280012963374635::1715723132::1715723133::1::::<><>::
+8.png::CompressedTexture2D::409747694565801780::1715723132::1715723133::1::::<><>::
+9.png::CompressedTexture2D::9021595855926626547::1715723132::1715723133::1::::<><>::
+10.png::CompressedTexture2D::4035419298177891034::1715723132::1715723133::1::::<><>::
+11.png::CompressedTexture2D::960066141808896122::1715723132::1715723133::1::::<><>::
+12.png::CompressedTexture2D::6046449228637297476::1715723132::1715723133::1::::<><>::
+13.png::CompressedTexture2D::663316897155048955::1715723132::1715723133::1::::<><>::
+14.png::CompressedTexture2D::4999016901810871302::1715723132::1715723133::1::::<><>::
+15.png::CompressedTexture2D::626174601261005801::1715723132::1715723133::1::::<><>::
+16.png::CompressedTexture2D::989905020973196976::1715723132::1715723133::1::::<><>::
+Green Button (guide).png::CompressedTexture2D::6249711284682344390::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Inventory/::1715723133
+1.png::CompressedTexture2D::3427751328710642982::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::26053744684880010::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::7163915081297456329::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::4738919997163821043::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::6567635520373526694::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::5486862838297738147::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::300388879064255202::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::3099328025285808917::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::1172015840430948447::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::5415753846485598926::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::7067365520569667281::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::5396243432999165316::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::869333778727318876::1715723133::1715723133::1::::<><>::
+14.png::CompressedTexture2D::5786235039672301673::1715723133::1715723133::1::::<><>::
+15.png::CompressedTexture2D::5570081739163686531::1715723133::1715723133::1::::<><>::
+16.png::CompressedTexture2D::9203319627359801515::1715723133::1715723133::1::::<><>::
+Inventory (guide).png::CompressedTexture2D::775309682227738593::1715723133::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Life Bars/::1715723132
+::res://assets/Wood and Paper UI/Sprites/Life Bars/Big Bars/::1715723133
+1.png::CompressedTexture2D::6902623466963334462::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::7796802043657613499::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::4834315669682694883::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::1082214341071373722::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Life Bars/Colors/::1715723133
+1.png::CompressedTexture2D::3755826329185090608::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::1982477752012718502::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::1995605512590077489::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::3991781921518958782::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Life Bars/Medium Bars/::1715723133
+1.png::CompressedTexture2D::2660740764052863846::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::3147212830729755079::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::1835745241820440806::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::4495258032580941453::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::7924260722093606665::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Life Bars/Small Bars/::1715723133
+1.png::CompressedTexture2D::9147251469166752001::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::7379473304161027970::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::1932928635316714822::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::8847358514239073530::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::2214153528952733066::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Mobile Buttons/::1715723132
+::res://assets/Wood and Paper UI/Sprites/Mobile Buttons/Mobile Buttons/::1715723133
+1.png::CompressedTexture2D::7316890094722670906::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::2655898672136293338::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::6370161440744209892::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::5436750782458572546::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::6562509436703226143::1715723132::1715723133::1::::<><>::
+6.png::CompressedTexture2D::3303364152204554129::1715723132::1715723133::1::::<><>::
+7.png::CompressedTexture2D::1719527692917682177::1715723132::1715723133::1::::<><>::
+8.png::CompressedTexture2D::2056123330562535068::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Mobile Buttons/Mobile Buttons Cooldown/::1715723133
+1.png::CompressedTexture2D::5116006165575247357::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::651929767521167892::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::744947092190198667::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::1398156260930513022::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::2750482891749238512::1715723132::1715723133::1::::<><>::
+6.png::CompressedTexture2D::4609208047108341147::1715723132::1715723133::1::::<><>::
+7.png::CompressedTexture2D::4204733888652084425::1715723132::1715723133::1::::<><>::
+8.png::CompressedTexture2D::3366959263934511968::1715723132::1715723133::1::::<><>::
+9.png::CompressedTexture2D::5244899579137826513::1715723132::1715723133::1::::<><>::
+10.png::CompressedTexture2D::7326915365520863774::1715723132::1715723133::1::::<><>::
+11.png::CompressedTexture2D::5001846836030678077::1715723132::1715723133::1::::<><>::
+12.png::CompressedTexture2D::1438624227679818784::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Orange Paper/::1715723133
+1.png::CompressedTexture2D::287087571386160625::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::4859819733781489578::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::7982921961101772304::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::4724762188723243138::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::5885287657571978667::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::7466997220071164095::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::4239790299242605295::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::7211327160583934418::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::9222460342492376135::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::4544833447684082116::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::5619015771926097723::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::4923126488779106668::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::811196147423067509::1715723133::1715723133::1::::<><>::
+14.png::CompressedTexture2D::7857994230849687331::1715723133::1715723133::1::::<><>::
+15.png::CompressedTexture2D::2877563804845215997::1715723133::1715723133::1::::<><>::
+16.png::CompressedTexture2D::1175953393536781316::1715723133::1715723133::1::::<><>::
+Orange Paper (guide).png::CompressedTexture2D::5046864284122419090::1715723133::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Prefabs/::1715723133
+1.png::CompressedTexture2D::1904734902653292463::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::1620636685229261264::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::5582492121141998224::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::7524629938646168810::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::4557238326955119294::1715723132::1715723133::1::::<><>::
+6.png::CompressedTexture2D::6105053928144526714::1715723132::1715723133::1::::<><>::
+7.png::CompressedTexture2D::451248490982384514::1715723132::1715723133::1::::<><>::
+8.png::CompressedTexture2D::1231704508767754135::1715723132::1715723133::1::::<><>::
+9.png::CompressedTexture2D::1873740740997162478::1715723132::1715723133::1::::<><>::
+10.png::CompressedTexture2D::8881886649930499698::1715723132::1715723133::1::::<><>::
+11.png::CompressedTexture2D::2131184778726582988::1715723132::1715723133::1::::<><>::
+12.png::CompressedTexture2D::4147886016219998292::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Sliders/::1715723133
+1.png::CompressedTexture2D::960557236904780445::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::7531284410281437292::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::6672781705953799233::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::125733982845933614::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::3412739321281876722::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::9204790993294946481::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::4507208891060071610::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::1940683750930853955::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::3108511119114174191::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::2682811383805514112::1715723133::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Small Banner/::1715723133
+1.png::CompressedTexture2D::5023485265756334941::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::2089417854250153441::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::1504543969352168258::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::8077566895649126245::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::4515221554509963591::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::8693626686213545601::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::6698583975473519094::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::1629848536623779217::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::7946299391521586026::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::248228480190474634::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::5562985527578430547::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::7835218632008671518::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::7589896527935168281::1715723133::1715723133::1::::<><>::
+Small Banner (guide).png::CompressedTexture2D::2082001614306672259::1715723133::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Small Text/::1715723132
+::res://assets/Wood and Paper UI/Sprites/Small Text/Small Icons/::1715723133
+1.png::CompressedTexture2D::2273690036933409405::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::1924823351033102814::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::1376641067775900726::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::5221597703376217798::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::5654049056829120235::1715723132::1715723133::1::::<><>::
+6.png::CompressedTexture2D::601943530747603316::1715723132::1715723133::1::::<><>::
+7.png::CompressedTexture2D::6463169366095886180::1715723132::1715723133::1::::<><>::
+8.png::CompressedTexture2D::2634996776025740068::1715723132::1715723133::1::::<><>::
+9.png::CompressedTexture2D::7145206885302322200::1715723132::1715723133::1::::<><>::
+10.png::CompressedTexture2D::2366391742762799156::1715723132::1715723133::1::::<><>::
+11.png::CompressedTexture2D::8411580314443902840::1715723132::1715723133::1::::<><>::
+12.png::CompressedTexture2D::1350130590614066021::1715723132::1715723133::1::::<><>::
+13.png::CompressedTexture2D::6219888539830223432::1715723132::1715723133::1::::<><>::
+14.png::CompressedTexture2D::1938818061538327279::1715723132::1715723133::1::::<><>::
+15.png::CompressedTexture2D::9144400628146814581::1715723132::1715723133::1::::<><>::
+16.png::CompressedTexture2D::4876384338878001573::1715723132::1715723133::1::::<><>::
+17.png::CompressedTexture2D::7014355831518249758::1715723132::1715723133::1::::<><>::
+18.png::CompressedTexture2D::3086530108490797825::1715723132::1715723133::1::::<><>::
+19.png::CompressedTexture2D::6830660305737750656::1715723132::1715723133::1::::<><>::
+20.png::CompressedTexture2D::8761879571541650354::1715723132::1715723133::1::::<><>::
+21.png::CompressedTexture2D::2775700269113693610::1715723132::1715723133::1::::<><>::
+22.png::CompressedTexture2D::9206165511331262760::1715723132::1715723133::1::::<><>::
+23.png::CompressedTexture2D::4461277075812482022::1715723132::1715723133::1::::<><>::
+24.png::CompressedTexture2D::7032832222896917072::1715723132::1715723133::1::::<><>::
+25.png::CompressedTexture2D::1785258296481842487::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/::1715802319
+1.png::CompressedTexture2D::734174105994464647::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::3046793733393064594::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::2808090395808963429::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::3536083678279529075::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::8223459986988996003::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::5963604106117088966::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::5078410993891073381::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::6146292927067503872::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::2556271325949536896::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::6984709534426265266::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::1180050463076222793::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::7887822009679315699::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::2532004166431525997::1715723133::1715723133::1::::<><>::
+14.png::CompressedTexture2D::3910067965075613336::1715723133::1715723133::1::::<><>::
+15.png::CompressedTexture2D::2348646831374816748::1715723133::1715723133::1::::<><>::
+16.png::CompressedTexture2D::1891249099941947973::1715723133::1715723133::1::::<><>::
+17.png::CompressedTexture2D::9006260095999927220::1715723133::1715723133::1::::<><>::
+18.png::CompressedTexture2D::4701381463172543637::1715723133::1715723133::1::::<><>::
+19.png::CompressedTexture2D::7535706166417060957::1715723133::1715723133::1::::<><>::
+20.png::CompressedTexture2D::6156800810180758874::1715723133::1715723133::1::::<><>::
+21.png::CompressedTexture2D::2844640940939114440::1715723133::1715723133::1::::<><>::
+22.png::CompressedTexture2D::4709351347551976107::1715723133::1715723133::1::::<><>::
+23.png::CompressedTexture2D::8813887844654778716::1715723133::1715723133::1::::<><>::
+24.png::CompressedTexture2D::4416052303379645836::1715723133::1715723133::1::::<><>::
+25.png::CompressedTexture2D::3347477566927599752::1715723133::1715723133::1::::<><>::
+26.png::CompressedTexture2D::7573713013641988497::1715723133::1715723133::1::::<><>::
+27.png::CompressedTexture2D::4612552384060643497::1715723133::1715723133::1::::<><>::
+28.png::CompressedTexture2D::804667865430657627::1715723133::1715723133::1::::<><>::
+29.png::CompressedTexture2D::5049968439810766333::1715723133::1715723133::1::::<><>::
+30.png::CompressedTexture2D::6774751495395949595::1715723133::1715723133::1::::<><>::
+31.png::CompressedTexture2D::2032374927500228200::1715723133::1715723133::1::::<><>::
+32.png::CompressedTexture2D::403036649970460148::1715723133::1715723133::1::::<><>::
+33.png::CompressedTexture2D::2085890317850226105::1715723133::1715723133::1::::<><>::
+34.png::CompressedTexture2D::8949533754225907269::1715723133::1715723133::1::::<><>::
+35.png::CompressedTexture2D::7070406779607202675::1715723133::1715723133::1::::<><>::
+36.png::CompressedTexture2D::7308070753715033159::1715723133::1715723133::1::::<><>::
+37.png::CompressedTexture2D::2455424501882744941::1715723133::1715723133::1::::<><>::
+38.png::CompressedTexture2D::8682495634265095154::1715723133::1715723133::1::::<><>::
+39.png::CompressedTexture2D::1120045623084051123::1715723133::1715723133::1::::<><>::
+40.png::CompressedTexture2D::3978376819897525792::1715723133::1715723133::1::::<><>::
+41.png::CompressedTexture2D::8101999121546835558::1715723133::1715723133::1::::<><>::
+42.png::CompressedTexture2D::7129008913988977549::1715723133::1715723133::1::::<><>::
+43.png::CompressedTexture2D::5266988775876959198::1715723133::1715723133::1::::<><>::
+44.png::CompressedTexture2D::696905305546703334::1715723133::1715723133::1::::<><>::
+45.png::CompressedTexture2D::1788249671951819611::1715723133::1715723133::1::::<><>::
+46.png::CompressedTexture2D::4437461864605576238::1715723133::1715723133::1::::<><>::
+47.png::CompressedTexture2D::1945170853988942733::1715723133::1715723133::1::::<><>::
+48.png::CompressedTexture2D::4401494388384205935::1715723133::1715723133::1::::<><>::
+49.png::CompressedTexture2D::4877181617343072660::1715723133::1715723133::1::::<><>::
+50.png::CompressedTexture2D::1307220280621481410::1715723133::1715723133::1::::<><>::
+51.png::CompressedTexture2D::6641582319690326176::1715723133::1715723133::1::::<><>::
+52.png::CompressedTexture2D::6273528931185137961::1715723133::1715723133::1::::<><>::
+small-banner.png::CompressedTexture2D::8618058740975090279::1715802319::1715802319::1::::<><>::
+small-text.png::FontFile::4048109393095782329::1715801521::1715802101::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Small Text/White Bar/::1715723133
+1.png::CompressedTexture2D::7681182055397083303::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::4333036486486347051::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::2304881360320018233::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::7587662386990169222::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Yellow Board/::1715723133
+1.png::CompressedTexture2D::5456076695474656426::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::5773734314798855979::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::6276274127285814986::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::6970780321920537582::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::6205744195125632712::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::5628834476612271056::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::3050488052214629685::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::793166398005217440::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::1863023647564958754::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::1809917227931276948::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::7423012373815968867::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::5245987134704210538::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::8538614587549319054::1715723133::1715723133::1::::<><>::
+14.png::CompressedTexture2D::3961181166216233095::1715723133::1715723133::1::::<><>::
+15.png::CompressedTexture2D::7881239166528322028::1715723133::1715723133::1::::<><>::
+16.png::CompressedTexture2D::6891278911815301608::1715723133::1715723133::1::::<><>::
+Yellow Board (guide).png::CompressedTexture2D::459079873162048052::1715723133::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Yellow Button/::1715723133
+1.png::CompressedTexture2D::5907546008375820204::1715723132::1715723133::1::::<><>::
+2.png::CompressedTexture2D::8981252503309859671::1715723132::1715723133::1::::<><>::
+3.png::CompressedTexture2D::4262407661327603820::1715723132::1715723133::1::::<><>::
+4.png::CompressedTexture2D::657358084305540293::1715723132::1715723133::1::::<><>::
+5.png::CompressedTexture2D::3698676982091366923::1715723132::1715723133::1::::<><>::
+6.png::CompressedTexture2D::1738233789777664031::1715723132::1715723133::1::::<><>::
+7.png::CompressedTexture2D::5117100181805856569::1715723132::1715723133::1::::<><>::
+8.png::CompressedTexture2D::5953657224501112111::1715723132::1715723133::1::::<><>::
+9.png::CompressedTexture2D::8978794749527815074::1715723132::1715723133::1::::<><>::
+10.png::CompressedTexture2D::3377575490558200767::1715723132::1715723133::1::::<><>::
+11.png::CompressedTexture2D::6880853022610234161::1715723132::1715723133::1::::<><>::
+12.png::CompressedTexture2D::7154155931076149779::1715723132::1715723133::1::::<><>::
+13.png::CompressedTexture2D::6445564668530475291::1715723132::1715723133::1::::<><>::
+14.png::CompressedTexture2D::3620212597895730075::1715723132::1715723133::1::::<><>::
+15.png::CompressedTexture2D::4739947064828318019::1715723132::1715723133::1::::<><>::
+16.png::CompressedTexture2D::5862381122428962226::1715723132::1715723133::1::::<><>::
+Yellow Button (guide).png::CompressedTexture2D::2328235368994975824::1715723132::1715723133::1::::<><>::
+::res://assets/Wood and Paper UI/Sprites/Yellow Paper/::1715723133
+1.png::CompressedTexture2D::4426442973262221201::1715723133::1715723133::1::::<><>::
+2.png::CompressedTexture2D::5117324368008644546::1715723133::1715723133::1::::<><>::
+3.png::CompressedTexture2D::3568810527625211610::1715723133::1715723133::1::::<><>::
+4.png::CompressedTexture2D::1161375958567235958::1715723133::1715723133::1::::<><>::
+5.png::CompressedTexture2D::3537098289236827655::1715723133::1715723133::1::::<><>::
+6.png::CompressedTexture2D::439873539220642284::1715723133::1715723133::1::::<><>::
+7.png::CompressedTexture2D::8744861509305650134::1715723133::1715723133::1::::<><>::
+8.png::CompressedTexture2D::5566017822779541578::1715723133::1715723133::1::::<><>::
+9.png::CompressedTexture2D::5695735444464550350::1715723133::1715723133::1::::<><>::
+10.png::CompressedTexture2D::7777081994017443271::1715723133::1715723133::1::::<><>::
+11.png::CompressedTexture2D::6780213291596605014::1715723133::1715723133::1::::<><>::
+12.png::CompressedTexture2D::7446331286369568419::1715723133::1715723133::1::::<><>::
+13.png::CompressedTexture2D::2238416541303652779::1715723133::1715723133::1::::<><>::
+14.png::CompressedTexture2D::3931137797766829816::1715723133::1715723133::1::::<><>::
+15.png::CompressedTexture2D::6688736330039280495::1715723133::1715723133::1::::<><>::
+16.png::CompressedTexture2D::5603535892079156523::1715723133::1715723133::1::::<><>::
+Yellow Paper (guide).png::CompressedTexture2D::48387847955402768::1715723133::1715723133::1::::<><>::
+::res://scenes/::1715802732
+main.tscn::PackedScene::1951744482727930480::1715726885::0::1::::<><>::uid://bmmidfdohyadd::::res://assets/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png<>uid://5l2cixw2olcu::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/04-Fall/Fall 01.png<>uid://budgd7iby4gyb::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png<>res://scripts/Player/player.gd<>uid://ffvi8cbkc7m8::::res://assets/Palm Tree Island/Sprites/Background/Additional Sky.png<>uid://crttx2fqr0vyw::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 02.png<>uid://cxvridmv383r4::::res://assets/Palm Tree Island/Sprites/Background/BG Image.png<>uid://bcmm3lqjyvgbf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 03.png<>uid://dt8ucupjd8hcf::::res://assets/Palm Tree Island/Sprites/Background/Additional Water.png<>uid://bx3ebsscanr4s::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 01.png<>uid://d1suj2t4agtjq::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png<>uid://cu6joisds13f8::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 02.png<>uid://jqimr8rv0tjo::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png<>uid://tb0fwry0en8f::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png<>uid://bubh5kkgfrkdf::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 03.png<>uid://bagk2g4xakgts::::res://assets/Palm Tree Island/Sprites/Background/Water Reflect Big 04.png<>uid://bptaxv86o1cpl::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png<>uid://d06h3y65vw3js::::res://assets/Palm Tree Island/Sprites/Background/Big Clouds.png<>uid://bdjkec7hrkxio::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png<>res://scenes/scrolling_background.gd<>uid://das6qgk4d2ouf::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png<>uid://bgpq44o6c778g::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 1.png<>uid://0afkeouhpfaa::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 2.png<>uid://bdyep21jy1xkd::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png<>uid://wxce1cooxtgl::::res://assets/Palm Tree Island/Sprites/Background/Small Cloud 3.png<>uid://corx5blv7oj0s::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png<>uid://dxyb11i6okpvg::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png<>uid://ds1dt7j5a67ew::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png<>uid://b56tbxetg4u3o::::res://assets/Wood and Paper UI/Sprites/Prefabs/5.png<>uid://7hpx43jbmct2::::res://assets/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png<>uid://bahqss73kv84c::::res://scenes/collectables/gold_coin.tscn<>uid://bbopxhql2pkbs::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/12-Fall Sword/Fall Sword 01.png<>res://scripts/fsm/fsm.gd<>res://scripts/Player/states/player_idle_state.gd<>res://scripts/Player/states/player_run_state.gd<>res://scripts/Player/states/player_jump_state.gd<>res://scripts/Player/states/player_fall_state.gd<>uid://b0rkivhns713u::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 01.png<>res://scripts/Player/input_handler.gd<>uid://dbv6e12okce2j::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 02.png<>uid://dbfi8sha2fy0i::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 03.png<>uid://dy7fevpkjorgo::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 04.png<>uid://cflv1xq375j35::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/Idle Sword 05.png<>uid://dt0dej2ox25tp::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 01.png<>uid://c4iufb4gva1on::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 02.png<>uid://d0ycrlpgyb88e::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/Jump Sword 03.png<>uid://cna1yxfed2o7y::::res://scenes/collectables/sword.tscn<>uid://ciu0f8a36ib3y::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 01.png<>uid://vewq6bdsl8dy::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 02.png<>uid://hv0pqw7kqm2q::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 03.png<>uid://bs1rlx60lraoo::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 04.png<>uid://belxvm0g5qcno::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 05.png<>uid://j3mgql2buqbm::::res://assets/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/Run Sword 06.png<>uid://b2eb14jr414jn::::res://assets/Steps_1.wav<>uid://hfmxs0b2mna8::::res://assets/Jump_3.wav<>uid://qla1pmc42qms::::res://assets/Steps_2.wav<>uid://kpv0f0ifmym6::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/1.png<>uid://bjn5iojrns77s::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/2.png<>uid://bgai3rmpabubl::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/3.png<>uid://bqm51tqfmx1wh::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/4.png<>uid://dpfrgjkq7nlh8::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/5.png<>uid://cq72xnyj5cc6q::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/6.png<>uid://cemaxmj7fd7ft::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/7.png<>uid://cttkst1t6iojg::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/8.png<>uid://bcojoebqgt10o::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/9.png<>uid://c6rpe7i263c1g::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/10.png<>uid://q2vi2cx7xkaj::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/11.png<>uid://dkm6jne25lqa2::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/12.png<>uid://bccr0d6q7wf4p::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/13.png<>uid://bvycio28kg6g7::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/14.png<>uid://8px4t6hbaf6k::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/15.png<>uid://17eujnm2c6cf::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/16.png<>uid://d1kx114uawuhg::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/17.png<>uid://b78ncic582xib::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/18.png<>uid://dfml8knouup3j::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/19.png<>uid://ctynuy7rr5a63::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/20.png<>uid://bgr725ynvh5e7::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/21.png<>uid://b8dilf6h7bdlb::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/22.png<>uid://dxtrperjr7s2o::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/23.png<>uid://b36f0bdkqvfcm::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/24.png<>uid://bnxsp4hshjb7m::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/25.png<>uid://df507grc0ofs0::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/26.png<>uid://b6ymcf3cu6fmf::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/27.png<>uid://lp106cy3nk1x::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/28.png<>uid://cd7iiihb56gmv::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/29.png<>uid://c3r0fxothe8qh::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/30.png<>uid://37q6hl42cf6w::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/31.png<>uid://f0h7pxei776w::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/32.png<>uid://4yokq7nkr7hd::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/33.png<>uid://d0rhrpqiak1pp::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/34.png<>uid://c7y7tjcbgpf0v::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/35.png<>uid://dcec4fm08gxlv::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/36.png<>uid://ba8oqoeemom10::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/37.png<>uid://dvx4o1miw5tn3::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/38.png<>uid://p7s8t4mubtvv::::res://assets/Wood and Paper UI/Sprites/Small Text/Small Text/39.png
+scrolling_background.gd::GDScript::-1::1715723330::0::1::::<>ParallaxLayer<>::
+::res://scenes/collectables/::1715723507
+gold_coin.tscn::PackedScene::2401875940286534696::1715723507::0::1::::<><>::res://scripts/collectable/gold_coin.gd<>uid://c3k8osra5lhmo::::res://assets/Pirate Treasure/Sprites/Coin Effect/01.png<>uid://depujubwoq0yv::::res://assets/Pirate Treasure/Sprites/Coin Effect/02.png<>uid://biytc1mb53epb::::res://assets/Pirate Treasure/Sprites/Coin Effect/03.png<>uid://c6tj870l0l1w3::::res://assets/Pirate Treasure/Sprites/Gold Coin/01.png<>uid://d37vshq271xpt::::res://assets/Pirate Treasure/Sprites/Gold Coin/02.png<>uid://clmcqc8rhcn8o::::res://assets/Pirate Treasure/Sprites/Gold Coin/03.png<>uid://c5g1iq1yedkbq::::res://assets/Pirate Treasure/Sprites/Gold Coin/04.png<>uid://cjusx312glako::::res://assets/Collectibles_8.wav
+sword.gd::GDScript::-1::1715723330::0::1::::<>Area2D<>::
+sword.tscn::PackedScene::5686919051494173272::1715639692::0::1::::<><>::res://scenes/collectables/sword.gd<>uid://dk556u674g8bc::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 01.png<>uid://daivxtibjn0wh::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 02.png<>uid://d2m1njhhk20ri::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 03.png<>uid://cxkvjn6g44hm5::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 04.png<>uid://c12sadc0xqiw4::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 05.png<>uid://co3t2asqumvms::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 06.png<>uid://ivfb7dcdn28h::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 07.png<>uid://uo1ogkpqpfao::::res://assets/Captain Clown Nose/Sword/21-Sword Idle/Sword Idle 08.png<>uid://c1sy5qmugse6t::::res://assets/Powerup_4.wav
 ::res://scripts/::1715198471
-::res://scripts/collectable/::1715199132
-gold_coin.gd::GDScript::-1::1715199132::0::1::::<>Area2D<>::
+::res://scripts/collectable/::1715638732
+gold_coin.gd::GDScript::-1::1715638732::0::1::::<>Area2D<>::
 ::res://scripts/fsm/::1715033948
 fsm.gd::GDScript::-1::1715033948::0::1::::FSM<>Node<>::
 state.gd::GDScript::-1::1714053340::0::1::::State<>Node<>::
 ::res://scripts/Player/::1715292845
 input_handler.gd::GDScript::-1::1715035679::0::1::::<>Node<>::
 player.gd::GDScript::-1::1715292845::0::1::::Player<>CharacterBody2D<>::
-::res://scripts/Player/states/::1715638325
+::res://scripts/Player/states/::1715724002
 player_base_state.gd::GDScript::-1::1715292845::0::1::::PlayerBaseState<>State<>::
-player_fall_state.gd::GDScript::-1::1715118822::0::1::::<>PlayerBaseState<>::
+player_fall_state.gd::GDScript::-1::1715724002::0::1::::<>PlayerBaseState<>::
 player_idle_state.gd::GDScript::-1::1715033970::0::1::::<>PlayerBaseState<>::
 player_jump_state.gd::GDScript::-1::1715638325::0::1::::<>PlayerBaseState<>::
-player_run_state.gd::GDScript::-1::1714688479::0::1::::<>PlayerBaseState<>::
+player_run_state.gd::GDScript::-1::1715640476::0::1::::<>PlayerBaseState<>::
