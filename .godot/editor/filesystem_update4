@@ -1,3 +1,15 @@
 res://scenes/main.tscn
 res://scenes/collectables/sword.gd
 res://scenes/scrolling_background.gd
+res://scenes/themes/yollow_board_theme.tres
+res://scenes/themes/banner_theme.tres
+res://scenes/themes/paper_theme.tres
+res://scenes/UI/new_game_selection.gd
+res://scripts/world.gd
+res://scenes/UI/selection_menu.gd
+res://scripts/main.gd
+res://scenes/UI/transition.gd
+res://scenes/levels/level_1.tscn
+res://scripts/level.gd
+res://scenes/UI/continue_selection.gd
+res://scenes/UI/main_menu_selection.gd

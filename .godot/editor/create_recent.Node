@@ -1,13 +1,13 @@
+AnimationPlayer
+ColorRect
+CanvasLayer
+Node2D
 Label
 VBoxContainer
 PanelContainer
-ColorRect
-CanvasLayer
 CanvasGroup
 Sprite2D
-Node2D
 Timer
-AnimationPlayer
 AudioStreamPlayer
 CollisionShape2D
 AnimatedSprite2D
